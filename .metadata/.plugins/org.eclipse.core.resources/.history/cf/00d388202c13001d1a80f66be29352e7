@@ -1,0 +1,10 @@
+
+public class MostraMensagem {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Olá, IBM!");
+		System.out.print("Olá, Mundo Java!");
+	}
+
+}

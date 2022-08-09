@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class ProcessaCalculos {
+
+	public static void main(String[] args) {
+
+		String nome;
+		
+		Scanner teclado = new Scanner(System.in);
+		int valor1 = teclado.nextInt();
+		int valor2 = teclado.nextInt();
+		
+		System.out.println("A soma é" + (valor1 + valor2));
+		
+	}
+
+}

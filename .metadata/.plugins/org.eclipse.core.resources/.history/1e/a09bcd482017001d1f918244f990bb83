@@ -1,0 +1,44 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class ControleFrutas {
+
+	public static void main(String[] args) {
+
+		ArrayList<String> frutas = new ArrayList<String>();
+		Scanner teclado = new Scanner(System.lineSeparator());
+		String strConvert, fruta;
+		int escolha = 1;
+		
+		while(escolha != 0) {
+		System.out.println("Escolha uma opcao: 1 - Cadastrar; 2 - Listar; 3 - Excluir; 4 - Listar Frutas com ID; 5 - Modificar fruta; 0 - Sair;");
+		strConvert = teclado.nextLine();
+		escolha = Integer.parseInt(strConvert);
+
+		 switch (escolha) {
+		 case 0: 
+			 break;
+	     case 1:
+	       System.out.println("Cadastrando Fruta:");
+	       fruta = teclado.nextLine();
+	       frutas.add(fruta);
+	       break;
+	     case 2:
+	       System.out.println("O número escolhido foi: 2.");
+	       break;
+	     case 3:
+	       System.out.println("O número escolhido foi: 3.");
+	       break;
+	     case 4:
+		       System.out.println("O número escolhido foi: 3.");
+		       break;
+	     case 5:
+		       System.out.println("O número escolhido foi: 3.");
+		       break;
+		 default:
+		       System.out.println("O número inválido! Digite um número entre 0 a 5 .");
+		 }
+		 System.out.println(frutas);
+	 }
+	}
+}

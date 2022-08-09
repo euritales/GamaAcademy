@@ -1,0 +1,17 @@
+import java.util.ArrayList;
+
+public class CrudArrayList {
+
+	public static void main(String[] args) {
+
+		//Criando procedimento de inserção ed registros com ArryaList
+
+		ArrayList<String> nomeClientes = new ArrayList<String>();
+		
+		nomeClientes.add("Petrolina");
+		nomeClientes.add("Givanildo");
+		nomeClientes.add("Adroaldo");
+		nomeClientes.add("Tarciano");
+	}
+
+}

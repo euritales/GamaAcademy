@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+
+public class CrudArrayList {
+
+	public static void main(String[] args) {
+
+		//Criando procedimento de inserção ed registros com ArryaList
+
+		ArrayList<String> marcas = new ArrayList<String>();
+		
+		marcas.add("BMW");
+		marcas.add("Chevrolet");
+		marcas.add("Ford");
+		marcas.add("FIAT");
+		marcas.set(4, "Volkswagem");
+		
+		//Separar itens.
+		System.out.println(marcas.get(2));
+		
+		
+	}
+
+}

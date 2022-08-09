@@ -1,0 +1,14 @@
+
+public class MostraMensagem {
+
+	public static void main(String[] args) {
+		String nome = "Rot";
+		int idade = 19;
+		
+		int num1 = 13;
+		int num2 = 13;
+		System.out.println("Olá "+ nome +". Sua idade: " + idade);
+		System.out.println(num1 + num2);
+	}
+
+}

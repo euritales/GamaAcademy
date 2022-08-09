@@ -1,0 +1,17 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class ControleFrutas {
+
+	public static void main(String[] args) {
+
+		ArrayList<String> frutas = new ArrayList<String>();
+		
+		Scanner cadastro = new Scanner(System.in);
+		
+		frutas.add(cadastro.next());
+		
+		System.out.println(frutas);
+	}
+
+}

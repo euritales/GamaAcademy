@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String[] args) {
+
+		double num1, num2;
+		
+		Scanner teclado = new Scanner(System.in);
+		
+		
+		
+	}
+
+}

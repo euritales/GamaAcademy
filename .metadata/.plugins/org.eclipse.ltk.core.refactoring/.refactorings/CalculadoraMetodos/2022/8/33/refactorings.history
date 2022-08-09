@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CalculadoraMetodos/src/Adicionar.java&apos; to &apos;Somar.java&apos;" description="Rename resource &apos;Adicionar.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Adicionar.java" name="Somar.java" stamp="1660050680487" updateReferences="true"/>
+</session>

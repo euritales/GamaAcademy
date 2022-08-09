@@ -1,0 +1,18 @@
+import java.io.FileWriter;
+import java.util.ArrayList;
+
+public class GeraArquivo {
+
+	public static void main(String[] args) {
+		ArrayList<String> marcas = new ArrayList<String>();
+		
+		marcas.add("Matheus");
+		marcas.add("Joao");
+		marcas.add("Bloca");
+		marcas.add("Davi");
+	
+		FileWriter arquivo = new FileWriter("c:\\clientes.txt");
+
+		PrintWriter gravarArquivo = new PrintWriter(arquivo)
+	}
+}

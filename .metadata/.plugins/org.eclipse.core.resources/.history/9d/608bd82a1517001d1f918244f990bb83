@@ -1,0 +1,11 @@
+
+public class CrudArrayList {
+
+	public static void main(String[] args) {
+
+		//Criando procedimento de inserção ed registros com ArryaList
+
+		ArrayList<String> nomeClientes = new Arraylist<String>();
+	}
+
+}
