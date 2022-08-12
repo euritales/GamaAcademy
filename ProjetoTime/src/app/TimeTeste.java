@@ -1,3 +1,5 @@
+package app;
+import core.Time;
 
 public class TimeTeste {
 
