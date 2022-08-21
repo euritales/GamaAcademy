@@ -2,14 +2,23 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item key="wrap" value="true"/>
-		<item key="casesensitive" value="false"/>
+		<item key="casesensitive" value="true"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="medicament"/>
 		<list key="findhistory">
+			<item value="medicament"/>
+			<item value="produtos"/>
+			<item value="smt"/>
+			<item value="medicamentos"/>
+			<item value="conne"/>
+			<item value="this.statement"/>
+			<item value="statement"/>
 			<item value="nomeClientes"/>
 		</list>
 		<list key="replacehistory">
+			<item value="produtos"/>
 			<item value="marcas"/>
 		</list>
 	</section>

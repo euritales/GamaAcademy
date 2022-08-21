@@ -1,9 +1,0 @@
-
-public class MandaMensagem {
-
-	// Metodo para recebimento de parametros
-	
-	public void Mensagem(String nome, String email, int idade) {
-		
-	}
-}
