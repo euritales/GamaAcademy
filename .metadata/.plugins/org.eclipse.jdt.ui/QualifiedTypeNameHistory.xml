@@ -19,4 +19,6 @@
     <fullyQualifiedTypeName name="model.Compra"/>
     <fullyQualifiedTypeName name="core.Pessoa"/>
     <fullyQualifiedTypeName name="core.Estudante"/>
+    <fullyQualifiedTypeName name="model.Conta"/>
+    <fullyQualifiedTypeName name="model.ContaEspecial"/>
 </qualifiedTypeNameHistroy>
