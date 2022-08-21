@@ -5,22 +5,12 @@ import core.Pessoa;
 
 public class AppUniversidade {
 	public static void main(String[] args) {
-		Pessoa p = new Pessoa();
+		Pessoa p = new Pessoa("Isídro", "isidro.teste@teste.com", "00123456789");
 		
-		p.setNome("Teste");
-		p.setEmail("teste@teste.com");
-		p.setTelefone("71912345678");
-
-		System.out.println(p.Exibir());
+		System.out.println(p.exibirInfo());
 		
-		Estudante e = new Estudante();
-		e.setEmail("aluno@fauldade.com");
-		e.setNome("Estudante");
-		e.setTelefone("1235678921");
-		e.setCurso("Odonto");
-		e.setNumeroMatricula(201720012);
+		Estudante e = new Estudante("aluno@fauldade.com","Jose", "12345612300", 12354894,"Estudante");
 		System.out.println(e.exibirInfo());
-		
 		
 	}
 
