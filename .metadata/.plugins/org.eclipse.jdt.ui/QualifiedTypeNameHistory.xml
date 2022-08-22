@@ -21,4 +21,9 @@
     <fullyQualifiedTypeName name="core.Estudante"/>
     <fullyQualifiedTypeName name="model.Conta"/>
     <fullyQualifiedTypeName name="model.ContaEspecial"/>
+    <fullyQualifiedTypeName name="model.Funcionario"/>
+    <fullyQualifiedTypeName name="model.Chefe"/>
+    <fullyQualifiedTypeName name="model.Comissionado"/>
+    <fullyQualifiedTypeName name="model.Empreiteiro"/>
+    <fullyQualifiedTypeName name="model.Horista"/>
 </qualifiedTypeNameHistroy>
