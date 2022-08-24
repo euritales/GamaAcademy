@@ -26,4 +26,10 @@
     <fullyQualifiedTypeName name="model.Comissionado"/>
     <fullyQualifiedTypeName name="model.Empreiteiro"/>
     <fullyQualifiedTypeName name="model.Horista"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="br.com.projectspring.hello.model.Produto"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
 </qualifiedTypeNameHistroy>
